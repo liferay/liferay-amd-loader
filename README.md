@@ -1,6 +1,9 @@
-# AMD Module Loader
 
-[![Build Status](https://travis-ci.org/liferay/liferay-amd-loader.svg)](https://travis-ci.org/liferay/liferay-amd-loader)
+> :warning: [The `liferay-amd-loader` package](https://npmjs.com/package/liferay-amd-loader) will be deprecated and this repo archived (ie. switched to read-only mode). Development will continue in [the `@liferay/amd-loader` package](https://npmjs.com/package/@liferay/amd-loader) and [in `liferay/liferay-frontend-projects` monorepo](https://github.com/liferay/liferay-frontend-projects/tree/master/projects/amd-loader).
+
+---
+
+# AMD Module Loader
 
 This repository holds the AMD Loader packed with Liferay DXP.
 
